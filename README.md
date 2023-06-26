@@ -23,7 +23,7 @@ The project utilizes the adviceslipjsonapi to fetch random quotes. Visit the adv
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 ## Demo
 
-[Coming]
+[HERE](https://randomquotegenerator-dex.netlify.app/)
 
 ## Screenshots
 
